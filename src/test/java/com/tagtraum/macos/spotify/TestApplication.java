@@ -20,6 +20,7 @@ import static org.junit.jupiter.api.Assertions.assertNotNull;
 public class TestApplication {
 
     @Test
+    @Disabled("Does not work without Spotify and account")
     public void testVersion() {
         final Application application = Application.getInstance();
         final String version = application.getVersion();
