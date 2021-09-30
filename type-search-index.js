@@ -1,1 +1,0 @@
-typeSearchIndex = [{"p":"com.tagtraum.macos.spotify","l":"Application"},{"p":"com.tagtraum.macos.spotify","l":"Epls"},{"p":"com.tagtraum.macos.spotify","l":"ImageData"},{"p":"com.tagtraum.macos.spotify","l":"Track"}]

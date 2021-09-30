@@ -1,1 +1,0 @@
-packageSearchIndex = [{"m":"tagtraum.obstspot","l":"com.tagtraum.macos.spotify"}]
