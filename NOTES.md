@@ -1,7 +1,7 @@
 - 0.9.4
 
   - Moved GitHub repository to https://github.com/japlscript/obstspot
-
+  - Moved to JaplScript 3.4.11
 
 - 0.9.3
 
